@@ -10,6 +10,6 @@ const sequelize = process.env.JAWSDB_URL
       dialectOptions: {
         decimalNumbers: true,
       },
-    });
+    }, console.log("Connected to mySQL"));
 
 module.exports = sequelize;
