@@ -27,7 +27,8 @@ N/A
 This application is licensed by Mozilla.
 
 ## Walkthrough Video
-[Screencastify Walkthrough Video Part 1](https://watch.screencastify.com/v/jYxR199628igtMmqlLBm)
+[Screencastify Walkthrough Video Part 1](https://watch.screencastify.com/v/jYxR199628igtMmqlLBm)  
+
 [Screencastify Walkthrough Video Part 2](https://watch.screencastify.com/v/JxT5V9D1vHjvQETfTiEH)
 
 ## Questions
